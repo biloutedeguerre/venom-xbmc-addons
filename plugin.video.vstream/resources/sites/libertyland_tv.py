@@ -14,7 +14,7 @@ SITE_IDENTIFIER = 'libertyland_tv'
 SITE_NAME = 'Libertyland'
 SITE_DESC = 'Les films et séries récentes en streaming et en téléchargement'
 
-URL_MAIN = 'https://libertyvf.com/'
+URL_MAIN = 'https://libertyvf.org/'
 
 URL_SEARCH = (URL_MAIN + 'v2/recherche/', 'showMovies')
 URL_SEARCH_MOVIES = ('', 'showMovies')
@@ -217,7 +217,7 @@ def showMovies(sSearch = ''):
         sUrl = URL_MAIN + 'v2/recherche/'
 
         oRequestHandler = cRequestHandler(sUrl)
-        #oRequestHandler.addHeaderEntry('Referer', 'https://libertyvf.com/v2/recherche/')
+        #oRequestHandler.addHeaderEntry('Referer', 'https://libertyvf.org/v2/recherche/')
         oRequestHandler.setRequestType(cRequestHandler.REQUEST_TYPE_POST)
         oRequestHandler.addParameters('categorie', scategorie)
         oRequestHandler.addParameters('mot_search', sSearch)
