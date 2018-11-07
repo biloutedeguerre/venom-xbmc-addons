@@ -25,3 +25,42 @@ http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
 
 #EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-name="NRJ12" tvg-logo="nrj12.png" group-title="Group 12",NRJ 12
 http://nrj-apple-live.adaptive.level3.net/apple/nrj/nrj/nrj12hi.m3u8
+
+#EXTINF:-1,[FR] TF1.HD
+http://world-ipsat.com:1155/agadir/123456/6224
+#EXTINF:-1,[FR] TF1 SD
+http://world-ipsat.com:1155/agadir/123456/443
+#EXTINF:-1,[FR] FRANCE2 HD
+http://world-ipsat.com:1155/agadir/123456/2188
+#EXTINF:-1,[FR] FRANCE2 SD
+http://world-ipsat.com:1155/agadir/123456/444
+#EXTINF:-1,[FR] FRANCE3 HD
+http://world-ipsat.com:1155/agadir/123456/445
+#EXTINF:-1,[FR] FRANCE3 SD
+http://world-ipsat.com:1155/agadir/123456/2517
+#EXTINF:-1,[FR] FRANCE4 HD
+http://world-ipsat.com:1155/agadir/123456/446
+#EXTINF:-1,[FR] FRANCE4 SD
+http://world-ipsat.com:1155/agadir/123456/2518
+#EXTINF:-1,[FR] FRANCE5 HD
+http://world-ipsat.com:1155/agadir/123456/447
+#EXTINF:-1,[FR] FRANCE5 SD
+http://world-ipsat.com:1155/agadir/123456/2519
+#EXTINF:-1,[FR] FRANCE O HD
+http://world-ipsat.com:1155/agadir/123456/448
+#EXTINF:-1,[FR] FRANCE O SD
+http://world-ipsat.com:1155/agadir/123456/2520
+#EXTINF:-1,[FR] M6 HD
+http://world-ipsat.com:1155/agadir/123456/2587
+#EXTINF:-1,[FR] M6 FHD
+http://world-ipsat.com:1155/agadir/123456/2474
+#EXTINF:-1,[FR] M6 SD
+http://world-ipsat.com:1155/agadir/123456/450
+#EXTINF:-1,[FR] W9 HD
+http://world-ipsat.com:1155/agadir/123456/2295
+#EXTINF:-1,[FR] W9 SD
+http://world-ipsat.com:1155/agadir/123456/451
+#EXTINF:-1,[FR] 6TER SD
+http://world-ipsat.com:1155/agadir/123456/455
+#EXTINF:-1,[FR] ARTE SD
+http://world-ipsat.com:1155/agadir/123456/456
